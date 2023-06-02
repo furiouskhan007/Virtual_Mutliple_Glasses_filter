@@ -1,0 +1,8 @@
+numpy==1.17.1
+dlib==19.17.0
+opencv-python==4.1.0.25
+#or install simply
+#pip install opencv-python
+#pip install numpy
+#pip install cmake
+#pip install dlib "dlib-19.22.99-cp310-cp310-win_amd64.whl" make sure you downloaded the compitable version of dlib and paste into the main directory
